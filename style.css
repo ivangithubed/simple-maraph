@@ -93,10 +93,10 @@ footer {
   margin-top: 70px;
   transition: all 0.3s ease;
 }
-.btn:hover {
+/* .btn:hover {
   background: #fff;
   color: #399cd8;
-}
+} */
 header {
   text-align: center;
   padding-top: 160px;
@@ -273,3 +273,4 @@ footer {
     }
   }
 }
+
